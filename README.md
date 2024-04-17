@@ -44,7 +44,7 @@ I'm Nico, a junior full-stack web developer passionate about crafting beautiful 
 
 ## Let's Connect
 
-📫 You can reach me at [my.Email](mailto:balbonicolo97@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/nicolò-balbo-di-vinadio-b127ab300).
+📫 You can reach me at [my.Email](mailto:balbonicolo97@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%B2-balbo-di-vinadio-b127ab300/).
 
 Happy coding! 🚀
 
